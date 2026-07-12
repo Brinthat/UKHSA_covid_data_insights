@@ -1,6 +1,9 @@
 streamlit
 pandas
+numpy
 matplotlib
 requests
 sqlalchemy
 pymysql
+scikit-fuzzy
+networkx
