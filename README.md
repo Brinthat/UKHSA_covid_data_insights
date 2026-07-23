@@ -41,7 +41,7 @@ Scotland, Wales, and Northern Ireland.
 
 ```
 ├── fetch_and_load.py      # pulls data from UKHSA API, loads into MySQL
-├── app.py                 # Streamlit web app (was: Tkinter desktop app)
+├── app.py                 # Streamlit web app 
 ├── requirements.txt
 └── README.md
 ```
